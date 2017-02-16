@@ -8,5 +8,5 @@ Written in mac os.
 3. scan the QR code with your phone and get the results
 
 
-Thanks to the github open program itchat.
+Thanks to the github open program [itchat](https://github.com/littlecodersh/ItChat).
 
