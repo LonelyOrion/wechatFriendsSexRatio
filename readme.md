@@ -1,6 +1,6 @@
 A simple python program to get the sex ration of your wechat friends.
 
-Written in mac os.
+Author: LonelyOrion, written in mac os.
 
 # Usage:
 1. pip install itchat
